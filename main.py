@@ -38,3 +38,5 @@ form = """
 def index():
     return form 
     
+app.run()
+    
